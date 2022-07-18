@@ -63,7 +63,7 @@
 #home::before{
     content:"";
     position:absolute;
-    background:url('/image/img.jpg') no-repeat center center/cover;
+    background:url('image/img.jpg') no-repeat center center/cover;
     height:90%;
     width:100%;
     z-index:-1;
@@ -114,7 +114,7 @@
 #client-section::before{
     content:"";
     position:absolute;
-    background:url('/image/img.jpg') no-repeat center center/cover;
+    background:url('image/img.jpg') no-repeat center center/cover;
     height:90%;
     width:100%;
     z-index:-1;
@@ -138,7 +138,7 @@
 #contact::before{
     content:"";
     position:absolute;
-    background:url('/image/img.jpg') no-repeat center center/cover;
+    background:url('image/img.jpg') no-repeat center center/cover;
     height:90%;
     width:100%;
     z-index:-1;
